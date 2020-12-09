@@ -382,7 +382,7 @@ h1 {
 	.table-container,.card-content { 
 		-webkit-print-color-adjust: exact; 
 	} 
-}｀
+}
 </style>
 
 
